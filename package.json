@@ -2,9 +2,8 @@
   "name": "@brlja/react-native-slider",
   "version": "0.12.1",
   "description": "A pure JavaScript <Slider /> component for react-native",
-  "main": "lib/Slider.js",
+  "main": "src/Slider.js",
   "files": [
-    "lib",
     "src"
   ],
   "author": "Jean Regisser <jean.regisser@gmail.com> (https://github.com/jeanregisser), Brlja and other contributors",
